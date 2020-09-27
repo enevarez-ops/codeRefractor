@@ -3,10 +3,10 @@
 ## Table of Contents
 
 * [User Story](#-User-Story)
+* [Image](#-Image)
 * [Usage-Installation](#Usage-Installation)
 * [Project Description](#-Project-Description)
 * [License](#-License)
-
 
 ## User Story
 
@@ -15,6 +15,10 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
+## Image
+
+![codeRefractor ScreenCap](/assets/images/codeRefractor-ScreenCap.png)
+
 ## Usage-Installation 
 
 For this project you will need to clone down repo and open in browser to edit. 
