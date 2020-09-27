@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [User Story](#-User-Story)
+* [Deployed Site](#-Deployed-Site)
 * [Image](#-Image)
 * [Usage-Installation](#Usage-Installation)
 * [Project Description](#-Project-Description)
@@ -15,6 +16,11 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
+
+## Deployed Site
+
+[Deployed Site](https://enevarez-ops.github.io/codeRefractor/)
+
 ## Image
 
 ![codeRefractor ScreenCap](/assets/images/codeRefractor-ScreenCap.png)
